@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+*.swp
+*~
+
+# IDE / Editor
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local env
+.env
+.env.local
+.env.*.local
