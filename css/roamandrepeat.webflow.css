@@ -786,7 +786,6 @@ img {
   justify-content: space-between;
   align-items: flex-start;
   margin-bottom: 100px;
-  display: none;
   position: relative;
 }
 
@@ -1408,6 +1407,10 @@ img {
 
 .footer-legal-text:hover {
   color: var(--black);
+}
+
+.hidden {
+  display: none;
 }
 
 @media screen and (max-width: 991px) {
